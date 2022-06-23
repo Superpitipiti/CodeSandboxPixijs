@@ -1,0 +1,2 @@
+# CodeSandboxPixijs
+Created with CodeSandbox
